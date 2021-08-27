@@ -10,6 +10,8 @@ Apresentação da biblioteca Pandas, uma biblioteca Python de código aberto par
 
 ------
 
+
+
 #### Aula 1 - Python básico
 
 #### Aula 2 - Estrutura de dados
@@ -23,3 +25,9 @@ Apresentação da biblioteca Pandas, uma biblioteca Python de código aberto par
 #### Aula 6 - Visualização de dados
 
 #### Aula 7 - Análise Exploratória
+
+
+
+------
+
+O projeto foi desenvolvido utilizando o **Jupyter Notebook**, enquanto que a instrutora usou o **Google Colab**
